@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "無窮プラトニック",
+  "base_artist": "VALIS",
+  "createdAt": "2026-03-11T13:26:51.401705Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "無窮プラトニック",
+      "artist": "VALIS",
+      "has_synced": true,
+      "path": "select/01_無窮プラトニック_VALIS.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "無窮プラトニック - Mukyu Platonic",
+      "artist": "VALIS",
+      "has_synced": true,
+      "path": "select/02_無窮プラトニック_-_Mukyu_Platonic_VALIS.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "無窮プラトニック",
+      "artist": "VALIS",
+      "has_synced": false,
+      "path": "select/pl_01_無窮プラトニック_VALIS.txt"
+    }
+  ]
+}
