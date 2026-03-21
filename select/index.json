@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "無窮プラトニック",
   "base_artist": "VALIS",
-  "createdAt": "2026-03-11T13:26:51.401705Z",
+  "createdAt": "2026-03-21T05:18:49.981081Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -27,6 +27,15 @@
       "artist": "VALIS",
       "has_synced": false,
       "path": "select/pl_01_無窮プラトニック_VALIS.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "無窮プラトニック",
+      "artist": "VALIS",
+      "has_synced": true,
+      "path": "select/localdb_01_無窮プラトニック_VALIS.lrc",
+      "repo_name": "fLQ0l3ZTr9w"
     }
   ]
 }
